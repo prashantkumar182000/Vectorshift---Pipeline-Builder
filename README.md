@@ -1,5 +1,8 @@
 # VectorShift Pipeline Builder
 
+https://github.com/user-attachments/assets/e01a001d-0de9-4d41-9cbf-ef4b4b822056
+
+
 ## Overview
 This project is a frontend and backend pipeline builder that allows users to create node-based workflows. The frontend is built using React, while the backend is implemented with FastAPI. The system enables the creation of various types of nodes with abstracted logic, dynamic styling, and backend integration to validate the pipeline's structure.
 
